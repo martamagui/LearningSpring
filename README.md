@@ -18,4 +18,4 @@ Currently watching:
 <br/>
 [Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=2&t=64s)
 <br/>
-☕ Currently at: 1:15:38☕
+☕ Currently at: 1:20:45☕
